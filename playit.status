@@ -1,119 +1,39 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.22): 1725410320170 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.22): 1725410658355 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 testing-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1725410323243 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.22): 1725410661439 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 testing-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1725410326318 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.22): 1725410664525 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 testing-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1725410329397 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.22): 1725410667610 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 testing-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1725410332530 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.22): 1725410670693 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 testing-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1725410335620 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.22): 1725410673772 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 testing-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1725410338692 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.22): 1725410676852 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 testing-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1725410341774 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-testing-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1725410344845 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-testing-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1725410347913 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-testing-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1725410350982 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-testing-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1725410354054 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-testing-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1725410357152 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-testing-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1725410360225 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-testing-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1725410363312 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-testing-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1725410366404 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-testing-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1725410369474 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-testing-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1725410372552 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-testing-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1725410375628 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-testing-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1725410378702 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-testing-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1725410381773 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-testing-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1725410384889 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-testing-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1725410387959 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-testing-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1725410391036 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.22): 1725410679923 tunnel running, 1 tunnels registered
 
 
 TUNNELS
